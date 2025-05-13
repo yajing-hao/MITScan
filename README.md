@@ -16,7 +16,7 @@ devtools::install_github("yajing-hao/MITScan")
 
 ## Vignettes
 
-For illustration, we load paired microbiome and host transcriptome data from the inflammatory bowel disease multi-omics data (IBDMDB), consisting of 64 subjects, 183 OTUs, and 500 host genes.
+For illustration, we load paired microbiome and host transcriptome data from the inflammatory bowel disease multi-omics data (IBDMDB), consisting of 64 subjects, 181 OTUs, and 500 host genes.
 
 ```R
 library(MITScan)
